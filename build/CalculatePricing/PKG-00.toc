@@ -1,0 +1,51 @@
+('C:\\Users\\trohweder\\Projects\\Python\\Site '
+ 'Pricing\\build\\CalculatePricing\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\trohweder\\Projects\\Python\\Site '
+   'Pricing\\build\\CalculatePricing\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\trohweder\\AppData\\Local\\Programs\\Python\\Python38-32\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\trohweder\\projects\\python virtual '
+   'environments\\pricing\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\trohweder\\projects\\python virtual '
+   'environments\\pricing\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\trohweder\\projects\\python virtual '
+   'environments\\pricing\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\trohweder\\projects\\python virtual '
+   'environments\\pricing\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\trohweder\\Projects\\Python Virtual '
+   'Environments\\pricing\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\trohweder\\Projects\\Python Virtual '
+   'Environments\\pricing\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('CalculatePricing',
+   'C:\\Users\\trohweder\\Projects\\Python\\Site Pricing\\CalculatePricing.py',
+   'PYSOURCE'),
+  ('CalculatePricing.exe.manifest',
+   'C:\\Users\\trohweder\\Projects\\Python\\Site '
+   'Pricing\\build\\CalculatePricing\\CalculatePricing.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
